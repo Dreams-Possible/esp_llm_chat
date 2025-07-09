@@ -4,5 +4,4 @@
 如果遇到证书问题，menuconfig->ESP-TLS里面最后一项和安全有关的配置启用，然后里面新出来的一项启用。
 注意，所有s3项目均使用N16R8最大带宽速度spi+240M最大速度进行配置。
 请确保你的闪存和内存够用，由于非工业使用，没有专门在极限情况下进行测试，理想情况下它们应该均工作正常。
-![3b7e13e81392ae2422e956ef6556c075](https://github.com/user-attachments/assets/169875c9-a95c-4e1d-b093-f604effb2f18)
-
+![467fddc4abe956027c494dd6beba1060](https://github.com/user-attachments/assets/1319030d-b285-4c09-b04d-aa86d9e221fe)
